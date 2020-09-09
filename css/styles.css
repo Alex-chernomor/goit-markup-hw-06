@@ -139,7 +139,6 @@ button {
 
 .modal-form-input:hover,
 .modal-form-input:focus{
-    pointer-events: none;
     border: 1px solid #2196F3;
     outline: none;
 } 
