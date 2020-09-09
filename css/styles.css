@@ -160,7 +160,7 @@ button {
 
 .modal-form-message:hover,
 .modal-form-message:focus{
-    border: 1px solid #2196F3;
+    border: 1px solid red;
     outline: none;
 }
 
