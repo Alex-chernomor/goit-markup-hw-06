@@ -679,18 +679,18 @@ button {
 }
 
 .client-svg {
-    fill: red;
+    fill: blue;
     transition:  fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .client-item-li .client-item-a:hover,
 .client-item-li .client-item-a:focus {
-    border-color:var(--link-hover-color);
+    border-color:red;
 }
 
 .client-item-li:hover .client-svg,
 .client-item-li:focus .client-svg {
-  --color1: var(--link-hover-color);
+  fill: red;
 }
 
 
