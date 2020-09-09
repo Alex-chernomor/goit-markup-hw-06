@@ -124,7 +124,7 @@ button {
   }
    
 .modal-form-input {
-     width: 100%;
+    width: 100%;
     height: 40px;
     border: 1px solid rgba(33, 33, 33, 0.2);
     border-radius: 4px;
@@ -136,7 +136,7 @@ button {
     border: 1px solid #2196F3;
     outline: none;
 } 
-
+.modal-form-input:hover ~ .social-svg-sign,
 .modal-form-input:focus ~ .social-svg-sign {
     --color1: var(--link-hover-color);
   }
