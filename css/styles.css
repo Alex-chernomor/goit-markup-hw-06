@@ -139,7 +139,7 @@ button {
 
 .modal-form-input:hover,
 .modal-form-input:focus{
-    border: 1px solid red;
+    border: 1px solid #2196F3;
     outline: none;
 } 
 .modal-form-input:hover ~ .social-svg-sign,
@@ -160,7 +160,7 @@ button {
 
 .modal-form-message:hover,
 .modal-form-message:focus{
-    border: 1px solid red;
+    border: 1px solid #2196F3;
     outline: none;
 }
 
